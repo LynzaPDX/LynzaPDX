@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LynzaPDX!
-- 👀 I’m interested in docs as code and using a CLI to write docs.
-- 🌱 I’m currently learning advanced Git, especially rebase and similar tasks. I'm also very interested in working with Sphinx and reStructuredText, along with Markdown.
+- 👀 I’m interested in Docs as Code and love to learn about new technology.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on helping to edit, proof, or tighten up written English docs.
 - 📫 How to reach me -- reach out here.
 
